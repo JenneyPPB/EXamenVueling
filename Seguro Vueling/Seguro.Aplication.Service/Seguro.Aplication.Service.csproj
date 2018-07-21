@@ -48,9 +48,9 @@
       <Project>{8a9c26c5-1f09-4d05-a831-100ad608f5cc}</Project>
       <Name>Seguro.Aplication.Dto</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Vueling.Aplication.Service.Contract\Vueling.Aplication.Service.Contract.csproj">
+    <ProjectReference Include="..\Vueling.Aplication.Service.Contract\Seguro.Aplication.Service.Contract.csproj">
       <Project>{eccbb913-ca58-4212-9a8b-919ef7f2aeed}</Project>
-      <Name>Vueling.Aplication.Service.Contract</Name>
+      <Name>Seguro.Aplication.Service.Contract</Name>
     </ProjectReference>
     <ProjectReference Include="..\Vueling.Common.Layer\Seguro.Common.Layer.csproj">
       <Project>{883369d6-c5bb-448e-9b9d-0dd63a78fe49}</Project>

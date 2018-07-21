@@ -25,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seguro.Aplication.Dto", "Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seguro.Aplication.Service", "Seguro.Aplication.Service\Seguro.Aplication.Service.csproj", "{B0682590-388D-42A4-BBFC-2311FEAD2012}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vueling.Aplication.Service.Contract", "Vueling.Aplication.Service.Contract\Vueling.Aplication.Service.Contract.csproj", "{ECCBB913-CA58-4212-9A8B-919EF7F2AEED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seguro.Aplication.Service.Contract", "Vueling.Aplication.Service.Contract\Seguro.Aplication.Service.Contract.csproj", "{ECCBB913-CA58-4212-9A8B-919EF7F2AEED}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seguro.Common.Layer", "Vueling.Common.Layer\Seguro.Common.Layer.csproj", "{883369D6-C5BB-448E-9B9D-0DD63A78FE49}"
 EndProject
