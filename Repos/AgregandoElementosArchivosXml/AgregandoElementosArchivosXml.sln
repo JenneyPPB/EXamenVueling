@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgregandoElementosArchivosXml", "AgregandoElementosArchivosXml\AgregandoElementosArchivosXml.csproj", "{4F75913D-A806-489E-9922-29F32A41101F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F75913D-A806-489E-9922-29F32A41101F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F75913D-A806-489E-9922-29F32A41101F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F75913D-A806-489E-9922-29F32A41101F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F75913D-A806-489E-9922-29F32A41101F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32870E46-75B8-4EF0-8978-30F95E188214}
+	EndGlobalSection
+EndGlobal

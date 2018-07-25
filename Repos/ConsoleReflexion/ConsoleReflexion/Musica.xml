@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<ListaMiusic>
+	<cancion>
+	   <id> 1</id>
+       <title >Huele a peligro</title>
+	   <interprete> Miriam Hernandez</interprete>
+	   <genero>Romantico</genero>
+	   <fecha>2011</fecha>
+		
+     </cancion>
+	</ListaMiusic>

@@ -1,0 +1,13 @@
+﻿USE CovalcoFlyWay
+Go
+IF OBJECT_ID (N'CovalcoFlyWay.dbo.Alumno') IS NULL
+BEGIN
+CREATE TABLE dbo.Alumno
+(
+ Id INT IDENTITY NOT NULL PRIMARY KEY,
+ Nombre[NVARCHAR](50) NOT NULL,
+ Dni [NVARCHAR](14) NOT NULL,
+ Apelidos [NVARCHAR](50) NOT NULL
+
+);
+END
